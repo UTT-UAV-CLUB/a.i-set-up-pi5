@@ -4,7 +4,7 @@
 
 **Chuỗi video hướng dẫn từng bước — từ SD card trống đến kết nối từ xa qua VNC**
 
-[![Video hướng dẫn](https://img.shields.io/badge/Video-Google%20Drive-0EA5E9?style=for-the-badge&labelColor=0A1E3C)](https://drive.google.com/drive/folders/16ZV_hHNpzC7dtoNOwQ68FxTMOkQsP5f-?usp=drive_link)
+[![Video hướng dẫn](https://img.shields.io/badge/Video-Google%20Drive-0EA5E9?style=for-the-badge&labelColor=0A1E3C)](https://drive.google.com/drive/folders/1Ef7EXyFHw1k3s9xpQItP-GvJrnZjmHGt?usp=drive_link)
 
 </div>
 
