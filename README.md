@@ -2,7 +2,7 @@
 
 # Hướng Dẫn Cài Đặt Raspberry Pi 5
 
-**Chuỗi video hướng dẫn từng bước — từ SD card trống đến kết nối từ xa qua VNC**
+**Chuỗi video hướng dẫn từng bước — Cick vào chữ Google Drive**
 
 [![Video hướng dẫn](https://img.shields.io/badge/Video-Google%20Drive-0EA5E9?style=for-the-badge&labelColor=0A1E3C)](https://drive.google.com/drive/folders/1Ef7EXyFHw1k3s9xpQItP-GvJrnZjmHGt?usp=drive_link)
 
