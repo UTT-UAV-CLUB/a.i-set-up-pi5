@@ -19,7 +19,7 @@ chú đi kèm.
 
 > [!NOTE]
 > Toàn bộ video nằm trong một thư mục Drive duy nhất:
-> **[Xem thư mục video tại đây](https://drive.google.com/drive/folders/16ZV_hHNpzC7dtoNOwQ68FxTMOkQsP5f-?usp=drive_link)**
+> **[Xem thư mục video tại đây](https://drive.google.com/drive/folders/1Ef7EXyFHw1k3s9xpQItP-GvJrnZjmHGt?usp=drive_link)**
 
 ## Nội dung hướng dẫn
 
